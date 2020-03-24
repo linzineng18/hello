@@ -1,1 +1,39 @@
-ssss
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>国内旅游</title>
+</head>
+<style>
+    html{
+        background-color:white;
+    }
+
+    body{
+        background-color:white;
+        width: 100%;
+        max-width: 640px;
+        margin: 0 auto;
+    }
+    h1{
+        color: white;
+        text-align: center;
+        font-size:35px;
+        padding-top: 10px;
+        padding-bottom: 10px; 
+    }
+    .qui-header{
+        background-color: #2bab79;
+    }
+
+</style>
+<body>
+    <header class="qui-header">
+    <h1>国内旅游计划</h1>
+    </header>
+    
+        <img src="images/华东.jpg" alt="" width="640">
+    
+</body>
+<html>
