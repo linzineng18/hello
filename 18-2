@@ -1,0 +1,90 @@
+<html lang="en">
+<head>
+   <title>国内旅游计划</title>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width,inital-scale=1.0">
+</head>
+<style>
+    html{
+        background-color: white;
+    
+    }
+
+    body{
+        background-color: white;
+        width: 100%;
+        max-width: 640px;
+        margin:0 auto   
+    }
+    h1{
+        color: white;
+        text-align: center;
+        font-size: 35px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .qui-header{
+        background-color: #2bab79;
+        height: 60px;
+    }
+    .baibian{
+        margin-left: 5px;
+
+    }
+    .pic
+    {
+        border-radius: 50%;
+
+
+
+    }
+    .bottom
+    {
+        /* border: 1px solid red; */
+        position: absolute;
+        top: 370px;
+        left: 460px; 
+    }
+    .face
+    {
+        float: left;
+        border: 1px solid white;
+        width: 39px;
+        height: 39px;
+        border-radius: 50px;
+    }
+    .title
+    {
+        /* border: 1px solid red; */
+        color: white;
+        white-space: nowrap;
+        font-size: 18px;
+        font-weight: bolder;
+        line-height: 50px;
+        margin-left: 65px;
+
+    }
+</style>
+<body>
+    <header class="qui-header">
+    <h1>国内旅游计划</h1>
+    </header>
+     
+
+        
+    
+    <section class ="baibian"> 
+        
+            <a  href=" ">< img src="./images/fengjing.jpg" alt ="呵呵" width="635"></ a>
+        <div class="bottom">
+          <p class="face"> 
+            < img src="./images/touxiang.jpg" alt="dog" width="38" height="38", class="pic">
+          </p >  
+            <h2 class="title">我的旅游行程</h2>
+        </div>
+    </section>
+
+    
+
+</body>
+</html>
